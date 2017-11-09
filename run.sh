@@ -1,0 +1,17 @@
+./IP -k 2 -h 2 -i citeseer.scc.gra -q citeseer.scc.query
+./IP -k 5 -h 5 -i citeseerx.gra -q citeseerx.query
+./IP -k 5 -h 5 -i cit-Patents.scc.gra -q cit-Patents.scc.query
+./IP -k 2 -h 2 -i email.gra -q email.query
+./IP -k 5 -h 5 -i go_uniprot.gra -q go_uniprot.query
+./IP -k 2 -h 2 -i lj.gra -q lj.query
+./IP -k 2 -h 2 -i mapped_100K.scc.gra -q mapped_100K.scc.query
+./IP -k 2 -h 2 -i mapped_1M.scc.gra -q mapped_1M.scc.query
+./IP -k 2 -h 2 -i uniprotenc_22m.scc.gra -q uniprotenc_22m.scc.query
+./IP -k 2 -h 2 -i uniprotenc_100m.scc.gra -q uniprotenc_100m.scc.query
+./IP -k 2 -h 2 -i uniprotenc_150m.scc.gra -q uniprotenc_150m.scc.query
+./IP -k 2 -h 2 -i web.gra -q web.query
+./IP -k 2 -h 2 -i wiki.gra -q wiki.query
+./IP -k 5 -h 5 -i govwild.gra -q govwild.query
+./IP -k 2 -h 2 -i yago.gra -q yago.query
+./IP -k 2 -h 2 -i twitter.gra -q twitter.query
+./IP -k 2 -h 2 -i web-uk.gra -q web-uk.query
