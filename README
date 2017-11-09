@@ -1,0 +1,17 @@
+This software is designed for generating IP label for graph reachability query. Please refer to our paper "Reachability Querying: An Independent Permutation Labeling Approach" for more details (http://www.vldb.org/pvldb/vol7/p1191-wei.pdf).
+
+Please cite our paper if the software is used for research works.
+@article{DBLP:journals/pvldb/WeiYLJ14,
+  author    = {Hao Wei and
+               Jeffrey Xu Yu and
+               Can Lu and
+               Ruoming Jin},
+  title     = {Reachability Querying: An Independent Permutation Labeling Approach},
+  journal   = {{PVLDB}},
+  volume    = {7},
+  number    = {12},
+  pages     = {1191--1202},
+  year      = {2014},
+}
+
+If you have any further questions, feel free to contact me via email, weihaohal@gmail.com. My homepage is http://www1.se.cuhk.edu.hk/~hwei.
